@@ -1,0 +1,546 @@
+<All>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B00VV2JO9O</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>Frigidaire</Brand>
+				<Color>White</Color>
+				<Feature>28,000 BTU heavy-duty air conditioner for window installation requires special 230V electrical outlet (Unit will not work with standard 115V outlet))</Feature>
+				<Feature>Quickly cools a room up to 1,900 sq. ft. with dehumidification up to 9.5 pints per hour</Feature>
+				<Feature>Multi-speed electronic controls with 24-hr. on/off timer and temperature sensing remote control</Feature>
+				<Feature>Clean Air ionizer, fresh air vent, exhaust control, 8-way air direction, washable filter, Auto cool, Energy Saver mode and Sleep mode</Feature>
+				<Feature>Energy Efficiency Ratio (EER): 8.5</Feature>
+				<ItemDimensions>
+					<Height Units="inches">18.60</Height>
+					<Length Units="inches">26.50</Length>
+					<Width Units="inches">26.50</Width>
+					<Weight Units="pounds">144.00</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<Label>Frigidaire</Label>
+				<ListPrice>
+					<Amount>849.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Frigidaire</Manufacturer>
+				<Model>FFRA2822R2</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">20.00</Height>
+					<Length Units="inches">31.50</Length>
+					<Width Units="inches">29.00</Width>
+					<Weight Units="pounds">181.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>FFRA2822R2-1</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Frigidaire</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/51HEVUTolJL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Frigidaire</Studio>
+				<Title>Frigidaire FFRA2822R2 28000 BTU 230-volt Window-Mounted Heavy-Duty Air Conditioner with Temperature Sensing Remote Control</Title>
+				<Warranty>Full 1 year parts &amp; labor warranty plus additional 4 years limited on sealed system.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>422427</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>3737721</ProductCategoryId>
+				<Rank>68</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B06XBF75QJ</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>LG</Brand>
+				<Color>White</Color>
+				<Feature>8, 000 BTU portable air conditioner with auto evaporation system</Feature>
+				<Feature>Cools a room up to 200 sq. Ft. With up to 1.8 pints per hour dehumidification</Feature>
+				<Feature>Top, inclined air discharge with auto swing louvers helps eliminate hot spots</Feature>
+				<Feature>Convenient LED display panel and LCD remote control</Feature>
+				<Feature>2 fan speeds and 2 cooling speeds for flexability</Feature>
+				<ItemDimensions>
+					<Height Units="inches">15.98</Height>
+					<Length Units="inches">23.74</Length>
+					<Width Units="inches">18.74</Width>
+					<Weight Units="pounds">56.00</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<Label>LG</Label>
+				<ListPrice>
+					<Amount>299.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>LG</Manufacturer>
+				<Model>LP0817WSR</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">15.98</Height>
+					<Length Units="inches">23.74</Length>
+					<Width Units="inches">18.74</Width>
+					<Weight Units="pounds">69.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>LP0817WSR</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>LG</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/31gHF8HD5eL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>LG</Studio>
+				<Title>LG LP0817WSR 8, 000 BTU 115V Portable Air Conditioner with Remote Control in White Portable Air Conditioner</Title>
+				<Warranty>1 year limited parts and labor.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>3412</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>1193678</ProductCategoryId>
+				<Rank>1</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B06XZLXWM3</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>Frigidaire</Brand>
+				<Feature>Wi-Fi ready Connected room air conditioner with Frigidaire smart app for mobile operation</Feature>
+				<Feature>2017 energy star: 12.0 energy efficiency Ratio (EER)</Feature>
+				<Feature>10, 000 BTUs Cools up to a 450 square foot room with 3 pints per hour dehumidification</Feature>
+				<Feature>Use your smart device to turn the Unit on or off, change temperature, control modes and adapt fan speeds</Feature>
+				<Feature>Clean air Ionizer removes pollen and impurities from the air providing relief for allergy Sufferers</Feature>
+				<ItemDimensions>
+					<Height Units="inches">14.50</Height>
+					<Length Units="inches">19.75</Length>
+					<Width Units="inches">19.00</Width>
+					<Weight Units="pounds">63.00</Weight>
+				</ItemDimensions>
+				<Label>Frigidaire</Label>
+				<ListPrice>
+					<Amount>429.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Frigidaire</Manufacturer>
+				<MaterialType>Steel</MaterialType>
+				<MaterialType>Plastic</MaterialType>
+				<Model>FGRC1044T1</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">17.01</Height>
+					<Length Units="inches">27.01</Length>
+					<Width Units="inches">27.01</Width>
+					<Weight Units="pounds">77.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>FGRC1044T1</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Frigidaire</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/51nPh%2B9HMHL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Frigidaire</Studio>
+				<Title>Frigidaire 10000 Btu Cool Connect Smart Window Air Conditioner w/ Wifi Control</Title>
+				<Warranty>Full 1 year parts &amp; labor warranty plus additional 4 years limited on sealed system.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>136996</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>3737721</ProductCategoryId>
+				<Rank>32</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B00ILRBRQU</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Misc.</Binding>
+				<Brand>Honeywell</Brand>
+				<Color>Silver</Color>
+				<Feature>Uses significantly less electricity than an Air Conditioner in a room up to 280 sq. ft.</Feature>
+				<Feature>BEST for hot dry climates, where the air humidity is low</Feature>
+				<Feature>Non-compressor system cools naturally, efficiently and inexpensively (470 CFM air flow)</Feature>
+				<Feature>Used with open windows and doors, no permanent installation required</Feature>
+				<Feature>Top-loading ice compartment plus 5.3-gallon (42-pint) water tank with fill door, water level indicator and low water alarm</Feature>
+				<Feature>Use in open environments with adequate cross ventilation</Feature>
+				<Feature>Evaporative coolers perform best when the air is hot with low humidity, such as desert areas</Feature>
+				<ItemDimensions>
+					<Height Units="inches">32.90</Height>
+					<Length Units="inches">14.60</Length>
+					<Width Units="inches">18.90</Width>
+					<Weight Units="pounds">23.40</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<IsMemorabilia>false</IsMemorabilia>
+				<Label>Honeywell</Label>
+				<ListPrice>
+					<Amount>249.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Honeywell</Manufacturer>
+				<Model>CL201AE</Model>
+				<PackageDimensions>
+					<Height Units="inches">17.25</Height>
+					<Length Units="inches">32.25</Length>
+					<Width Units="inches">21.75</Width>
+					<Weight Units="pounds">29.50</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>CL201AE</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Honeywell</Publisher>
+				<Size>470 CFM</Size>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/41G3bzBM0DL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Honeywell</Studio>
+				<Title>Honeywell 470 CFM Indoor Evaporative Air Cooler (Swamp Cooler) with Remote Control in Silver</Title>
+				<Warranty>1 year parts and labor.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships>
+			<VariationParent>
+				<Identifiers>
+					<MarketplaceASIN>
+						<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+						<ASIN>B073WW3R3S</ASIN>
+					</MarketplaceASIN>
+				</Identifiers>
+			</VariationParent>
+		</Relationships>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>56231</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>14554129011</ProductCategoryId>
+				<Rank>1</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B00VV2JO9O</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>Frigidaire</Brand>
+				<Color>White</Color>
+				<Feature>28,000 BTU heavy-duty air conditioner for window installation requires special 230V electrical outlet (Unit will not work with standard 115V outlet))</Feature>
+				<Feature>Quickly cools a room up to 1,900 sq. ft. with dehumidification up to 9.5 pints per hour</Feature>
+				<Feature>Multi-speed electronic controls with 24-hr. on/off timer and temperature sensing remote control</Feature>
+				<Feature>Clean Air ionizer, fresh air vent, exhaust control, 8-way air direction, washable filter, Auto cool, Energy Saver mode and Sleep mode</Feature>
+				<Feature>Energy Efficiency Ratio (EER): 8.5</Feature>
+				<ItemDimensions>
+					<Height Units="inches">18.60</Height>
+					<Length Units="inches">26.50</Length>
+					<Width Units="inches">26.50</Width>
+					<Weight Units="pounds">144.00</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<Label>Frigidaire</Label>
+				<ListPrice>
+					<Amount>849.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Frigidaire</Manufacturer>
+				<Model>FFRA2822R2</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">20.00</Height>
+					<Length Units="inches">31.50</Length>
+					<Width Units="inches">29.00</Width>
+					<Weight Units="pounds">181.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>FFRA2822R2-1</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Frigidaire</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/51HEVUTolJL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Frigidaire</Studio>
+				<Title>Frigidaire FFRA2822R2 28000 BTU 230-volt Window-Mounted Heavy-Duty Air Conditioner with Temperature Sensing Remote Control</Title>
+				<Warranty>Full 1 year parts &amp; labor warranty plus additional 4 years limited on sealed system.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>422427</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>3737721</ProductCategoryId>
+				<Rank>68</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B06XBF75QJ</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>LG</Brand>
+				<Color>White</Color>
+				<Feature>8, 000 BTU portable air conditioner with auto evaporation system</Feature>
+				<Feature>Cools a room up to 200 sq. Ft. With up to 1.8 pints per hour dehumidification</Feature>
+				<Feature>Top, inclined air discharge with auto swing louvers helps eliminate hot spots</Feature>
+				<Feature>Convenient LED display panel and LCD remote control</Feature>
+				<Feature>2 fan speeds and 2 cooling speeds for flexability</Feature>
+				<ItemDimensions>
+					<Height Units="inches">15.98</Height>
+					<Length Units="inches">23.74</Length>
+					<Width Units="inches">18.74</Width>
+					<Weight Units="pounds">56.00</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<Label>LG</Label>
+				<ListPrice>
+					<Amount>299.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>LG</Manufacturer>
+				<Model>LP0817WSR</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">15.98</Height>
+					<Length Units="inches">23.74</Length>
+					<Width Units="inches">18.74</Width>
+					<Weight Units="pounds">69.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>LP0817WSR</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>LG</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/31gHF8HD5eL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>LG</Studio>
+				<Title>LG LP0817WSR 8, 000 BTU 115V Portable Air Conditioner with Remote Control in White Portable Air Conditioner</Title>
+				<Warranty>1 year limited parts and labor.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>3412</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>1193678</ProductCategoryId>
+				<Rank>1</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B06XZLXWM3</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Kitchen</Binding>
+				<Brand>Frigidaire</Brand>
+				<Feature>Wi-Fi ready Connected room air conditioner with Frigidaire smart app for mobile operation</Feature>
+				<Feature>2017 energy star: 12.0 energy efficiency Ratio (EER)</Feature>
+				<Feature>10, 000 BTUs Cools up to a 450 square foot room with 3 pints per hour dehumidification</Feature>
+				<Feature>Use your smart device to turn the Unit on or off, change temperature, control modes and adapt fan speeds</Feature>
+				<Feature>Clean air Ionizer removes pollen and impurities from the air providing relief for allergy Sufferers</Feature>
+				<ItemDimensions>
+					<Height Units="inches">14.50</Height>
+					<Length Units="inches">19.75</Length>
+					<Width Units="inches">19.00</Width>
+					<Weight Units="pounds">63.00</Weight>
+				</ItemDimensions>
+				<Label>Frigidaire</Label>
+				<ListPrice>
+					<Amount>429.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Frigidaire</Manufacturer>
+				<MaterialType>Steel</MaterialType>
+				<MaterialType>Plastic</MaterialType>
+				<Model>FGRC1044T1</Model>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="inches">17.01</Height>
+					<Length Units="inches">27.01</Length>
+					<Width Units="inches">27.01</Width>
+					<Weight Units="pounds">77.00</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>FGRC1044T1</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Frigidaire</Publisher>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/51nPh%2B9HMHL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Frigidaire</Studio>
+				<Title>Frigidaire 10000 Btu Cool Connect Smart Window Air Conditioner w/ Wifi Control</Title>
+				<Warranty>Full 1 year parts &amp; labor warranty plus additional 4 years limited on sealed system.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships/>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>136996</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>3737721</ProductCategoryId>
+				<Rank>32</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+	<Product>
+		<Identifiers>
+			<MarketplaceASIN>
+				<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+				<ASIN>B00ILRBRQU</ASIN>
+			</MarketplaceASIN>
+		</Identifiers>
+		<AttributeSets>
+			<ItemAttributes xml:lang="en-US">
+				<Binding>Misc.</Binding>
+				<Brand>Honeywell</Brand>
+				<Color>Silver</Color>
+				<Feature>Uses significantly less electricity than an Air Conditioner in a room up to 280 sq. ft.</Feature>
+				<Feature>BEST for hot dry climates, where the air humidity is low</Feature>
+				<Feature>Non-compressor system cools naturally, efficiently and inexpensively (470 CFM air flow)</Feature>
+				<Feature>Used with open windows and doors, no permanent installation required</Feature>
+				<Feature>Top-loading ice compartment plus 5.3-gallon (42-pint) water tank with fill door, water level indicator and low water alarm</Feature>
+				<Feature>Use in open environments with adequate cross ventilation</Feature>
+				<Feature>Evaporative coolers perform best when the air is hot with low humidity, such as desert areas</Feature>
+				<ItemDimensions>
+					<Height Units="inches">32.90</Height>
+					<Length Units="inches">14.60</Length>
+					<Width Units="inches">18.90</Width>
+					<Weight Units="pounds">23.40</Weight>
+				</ItemDimensions>
+				<IsAutographed>false</IsAutographed>
+				<IsMemorabilia>false</IsMemorabilia>
+				<Label>Honeywell</Label>
+				<ListPrice>
+					<Amount>249.99</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+				</ListPrice>
+				<Manufacturer>Honeywell</Manufacturer>
+				<Model>CL201AE</Model>
+				<PackageDimensions>
+					<Height Units="inches">17.25</Height>
+					<Length Units="inches">32.25</Length>
+					<Width Units="inches">21.75</Width>
+					<Weight Units="pounds">29.50</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>CL201AE</PartNumber>
+				<ProductGroup>Home</ProductGroup>
+				<ProductTypeName>HOME</ProductTypeName>
+				<Publisher>Honeywell</Publisher>
+				<Size>470 CFM</Size>
+				<SmallImage>
+					<URL>http://ecx.images-amazon.com/images/I/41G3bzBM0DL._SL75_.jpg</URL>
+					<Height Units="pixels">75</Height>
+					<Width Units="pixels">75</Width>
+				</SmallImage>
+				<Studio>Honeywell</Studio>
+				<Title>Honeywell 470 CFM Indoor Evaporative Air Cooler (Swamp Cooler) with Remote Control in Silver</Title>
+				<Warranty>1 year parts and labor.</Warranty>
+			</ItemAttributes>
+		</AttributeSets>
+		<Relationships>
+			<VariationParent>
+				<Identifiers>
+					<MarketplaceASIN>
+						<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+						<ASIN>B073WW3R3S</ASIN>
+					</MarketplaceASIN>
+				</Identifiers>
+			</VariationParent>
+		</Relationships>
+		<SalesRankings>
+			<SalesRank>
+				<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+				<Rank>56231</Rank>
+			</SalesRank>
+			<SalesRank>
+				<ProductCategoryId>14554129011</ProductCategoryId>
+				<Rank>1</Rank>
+			</SalesRank>
+		</SalesRankings>
+	</Product>
+</All>
