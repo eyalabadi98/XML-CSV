@@ -1,0 +1,76 @@
+ 
+<Product >
+	<Identifiers>
+		<MarketplaceASIN>
+			<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+			<ASIN>B00B2BT9J4</ASIN>
+		</MarketplaceASIN>
+	</Identifiers>
+	<AttributeSets>
+		<ns2:ItemAttributes xml:lang="en-US">
+			<ns2:Binding>Misc.</ns2:Binding>
+			<ns2:Brand>Honeywell</ns2:Brand>
+			<ns2:Color>Black/Silver</ns2:Color>
+			<ns2:Feature>14000 BTU portable air conditioner with no-bucket design cools areas up to 550 sq. ft.</ns2:Feature>
+			<ns2:Feature>Dehumidification up to 79.2 pints per day</ns2:Feature>
+			<ns2:Feature>Digital LED display precise feather-touch controls and full-function remote control</ns2:Feature>
+			<ns2:Feature>3 speeds and automatic on/off timer from 1-24 hours</ns2:Feature>
+			<ns2:Feature>Powerful air flow and quiet operation (55 dbA)</ns2:Feature>
+			<ns2:ItemDimensions>
+				<ns2:Height Units="inches">29.30</ns2:Height>
+				<ns2:Length Units="inches">15.70</ns2:Length>
+				<ns2:Width Units="inches">16.50</ns2:Width>
+				<ns2:Weight Units="pounds">73.90</ns2:Weight>
+			</ns2:ItemDimensions>
+			<ns2:IsAutographed>false</ns2:IsAutographed>
+			<ns2:IsMemorabilia>false</ns2:IsMemorabilia>
+			<ns2:Label>JMA Honeywell</ns2:Label>
+			<ns2:ListPrice>
+				<ns2:Amount>599.99</ns2:Amount>
+				<ns2:CurrencyCode>USD</ns2:CurrencyCode>
+			</ns2:ListPrice>
+			<ns2:Manufacturer>JMA Honeywell</ns2:Manufacturer>
+			<ns2:Model>MM14CCS</ns2:Model>
+			<ns2:NumberOfItems>1</ns2:NumberOfItems>
+			<ns2:PackageDimensions>
+				<ns2:Height Units="inches">18.10</ns2:Height>
+				<ns2:Length Units="inches">43.80</ns2:Length>
+				<ns2:Width Units="inches">21.30</ns2:Width>
+				<ns2:Weight Units="pounds">88.05</ns2:Weight>
+			</ns2:PackageDimensions>
+			<ns2:PackageQuantity>1</ns2:PackageQuantity>
+			<ns2:PartNumber>MM14CCS</ns2:PartNumber>
+			<ns2:ProductGroup>Home</ns2:ProductGroup>
+			<ns2:ProductTypeName>HOME</ns2:ProductTypeName>
+			<ns2:Publisher>JMA Honeywell</ns2:Publisher>
+			<ns2:SmallImage>
+				<ns2:URL>http://ecx.images-amazon.com/images/I/31z2YOkWmDL._SL75_.jpg</ns2:URL>
+				<ns2:Height Units="pixels">75</ns2:Height>
+				<ns2:Width Units="pixels">75</ns2:Width>
+			</ns2:SmallImage>
+			<ns2:Studio>JMA Honeywell</ns2:Studio>
+			<ns2:Title>Honeywell MM14CCS 14000 BTU Portable Air Conditioner with Remote Control - Black/Silver</ns2:Title>
+			<ns2:Warranty>Limited 1-year parts and labor for unit and 18-months parts for compressor.</ns2:Warranty>
+		</ns2:ItemAttributes>
+	</AttributeSets>
+	<Relationships>
+		<VariationParent>
+			<Identifiers>
+				<MarketplaceASIN>
+					<MarketplaceId>ATVPDKIKX0DER</MarketplaceId>
+					<ASIN>B01DDB6YTS</ASIN>
+				</MarketplaceASIN>
+			</Identifiers>
+		</VariationParent>
+	</Relationships>
+	<SalesRankings>
+		<SalesRank>
+			<ProductCategoryId>home_garden_display_on_website</ProductCategoryId>
+			<Rank>97202</Rank>
+		</SalesRank>
+		<SalesRank>
+			<ProductCategoryId>1193678</ProductCategoryId>
+			<Rank>39</Rank>
+		</SalesRank>
+	</SalesRankings>
+</Product> 
