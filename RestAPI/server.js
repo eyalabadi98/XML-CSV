@@ -10,9 +10,9 @@ app.use(bodyParser.urlencoded({
  
 // connection configurations
 const mc = mysql.createConnection({
-    host: 'bidfta-prod.cac4i5blias7.us-east-1.rds.amazonaws.com',
+    host: '****.us-east-1.rds.amazonaws.com',
     user: 'upwork',
-    password: 'mCwcr6UzcF5xw1I',
+    password: '*****',
     database: 'products'
 });
  
